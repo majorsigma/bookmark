@@ -26,7 +26,12 @@ SECRET_KEY = 'django-insecure-twat#48u4+d-(cif_strme834!-+-(z=@7u5u01q4etos9%kna
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['site.bookmarks.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = [
+    'site.bookmarks.com',
+    'localhost',
+    '127.0.0.1',
+    '03ee55ec0257.ngrok.io',
+]
 
 
 # Application definition
