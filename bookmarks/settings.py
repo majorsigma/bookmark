@@ -30,7 +30,7 @@ ALLOWED_HOSTS = [
     'site.bookmarks.com',
     'localhost',
     '127.0.0.1',
-    '03ee55ec0257.ngrok.io',
+    'b04c5968171f.ngrok.io',
 ]
 
 
@@ -46,6 +46,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'social_django',
     'images.apps.ImagesConfig',
+    'sorl.thumbnail',
 ]
 
 MIDDLEWARE = [
