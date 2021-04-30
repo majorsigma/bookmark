@@ -30,7 +30,7 @@ ALLOWED_HOSTS = [
     'site.bookmarks.com',
     'localhost',
     '127.0.0.1',
-    'b04c5968171f.ngrok.io',
+    'f0e9847505ba.ngrok.io',
 ]
 
 
